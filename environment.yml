@@ -5,6 +5,10 @@ dependencies:
   - requests
   # get dependencies for pgcontents
   - certifi
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
   - click
   - mako
   - psycopg2
