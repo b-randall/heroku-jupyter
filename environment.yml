@@ -7,8 +7,8 @@ dependencies:
   - certifi
   - pandas
   - numpy
-  - matplotlib
   - seaborn
+  - matlablib
   - click
   - mako
   - psycopg2
