@@ -5,9 +5,6 @@ dependencies:
   - requests
   # get dependencies for pgcontents
   - certifi
-  - pandas
-  - numpy
-  - seaborn
   - click
   - mako
   - psycopg2
