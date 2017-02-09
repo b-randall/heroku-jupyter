@@ -8,7 +8,6 @@ dependencies:
   - pandas
   - numpy
   - seaborn
-  - matlablib
   - click
   - mako
   - psycopg2
